@@ -1,5 +1,6 @@
-# 3.Rearchitecting_Web_App_AWS_cloud
-xxxxxxxxxxxxxxxxIn my previous project ([Project-1](https://github.com/MadhuShetty1814/1.Multi_Tier_Web_App_Local_Setup)), I accomplished the setup of a multi-tier web application locally. In my latest endeavor, I seamlessly migrated this application from my local VM setup to Amazon Web Services (AWS) using the 'lift and shift' strategy. This migration allowed me to leverage AWS's scalability and reliability while minimizing disruptions to the application's functionality. Key steps included provisioning resources, migrating data, and optimizing the setup, resulting in improved scalability, reliability, and cost-efficiency.xxxxxxxxxxxxxxxxxxx
+# Project-3: Rearchitecting_Web_App_AWS_cloud
+In this project, I led the migration and rearchitecting of a multi-tier web application. Initially, we shifted from traditional infrastructure to the cloud with a 'lift and shift' strategy [(PRoject-2)](https://github.com/MadhuShetty1814/2.AWS_Cloud_Webapp_Lift-Shift), setting the stage for an exciting transformation.
+Subsequently, I restructured the application using cloud-native services, unlocking several key advantages. We enhanced scalability, optimized costs, bolstered resilience, and achieved greater development speed and security. This journey underscores the potential of cloud-native solutions and the power of DevOps and automation in shaping the future of modern web applications.
 
   ### About the Project:
   - Multi-Tier web application stack [Vprofile].
