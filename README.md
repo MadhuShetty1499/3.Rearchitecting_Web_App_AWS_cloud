@@ -1,5 +1,5 @@
 # Project-3: Rearchitecting_Web_App_AWS_cloud
-In this project, I led the migration and rearchitecting of a multi-tier web application. Initially, we shifted from traditional infrastructure to the cloud with a 'lift and shift' strategy [(Project-2)](https://github.com/MadhuShetty1814/2.AWS_Cloud_Webapp_Lift-Shift), setting the stage for an exciting transformation.
+In this project, I led the migration and rearchitecting of a multi-tier web application. Initially, we shifted from traditional infrastructure to the cloud with a 'lift and shift' strategy ([Project-2](https://github.com/MadhuShetty1814/2.AWS_Cloud_Webapp_Lift-Shift)), setting the stage for an exciting transformation.
 Subsequently, I restructured the application using cloud-native services, unlocking several key advantages. We enhanced scalability, optimized costs, bolstered resilience, and achieved greater development speed and security. This journey underscores the potential of cloud-native solutions and the power of DevOps and automation in shaping the future of modern web applications.
 
   ### About the Project:
